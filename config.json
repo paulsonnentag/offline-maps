@@ -1,0 +1,11 @@
+{
+  "options": {
+    "paths": {
+    }
+  },
+  "data": {
+    "openmaptiles": {
+      "mbtiles": "data/zurich_switzerland.mbtiles"
+    }
+  }
+}
